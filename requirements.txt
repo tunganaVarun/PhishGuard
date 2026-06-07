@@ -5,3 +5,4 @@ openpyxl
 joblib
 matplotlib
 seaborn
+gunicorn
